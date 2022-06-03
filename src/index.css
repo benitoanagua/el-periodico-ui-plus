@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Blinker:wght@200;300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caladea:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-4xl md:text-5xl font-bold font-serif text-neutral-900;
+  }
+  h2 {
+    @apply text-3xl md:text-4xl font-bold font-serif text-neutral-900;
+  }
+  h3 {
+    @apply text-2xl md:text-3xl font-bold font-serif text-neutral-900;
+  }
+  h4 {
+    @apply text-xl md:text-2xl font-bold font-serif text-neutral-900;
+  }
+  h5 {
+    @apply text-lg md:text-xl font-bold font-serif text-neutral-900;
+  }
+  h6 {
+    @apply text-base md:text-lg font-bold font-serif text-neutral-900;
+  }
+}

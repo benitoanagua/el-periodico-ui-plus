@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Tapa",
+        "image": "https://api.lorem.space/image/movie?w=450&h=660&hash=4F32C4CF",
+        "url": "#"
+    },
+    {
+        "id": 2,
+        "title": "Especial",
+        "image": "https://api.lorem.space/image/game?w=450&h=660&hash=4F32C4CF",
+        "url": "#"
+    },
+    {
+        "id": 3,
+        "title": "Ecos",
+        "image": "https://api.lorem.space/image/book?w=450&h=660&hash=4F32C4CF",
+        "url": "#"
+    },
+    {
+        "id": 4,
+        "title": "Puño y Letra",
+        "image": "https://api.lorem.space/image/movie?w=450&h=660&hash=B0E33EF4",
+        "url": "#"
+    },
+    {
+        "id": 5,
+        "title": "Panorama",
+        "image": "https://api.lorem.space/image/game?w=450&h=660&hash=2D297A22",
+        "url": "#"
+    },
+    {
+        "id": 6,
+        "title": "Gente Flash",
+        "image": "https://api.lorem.space/image/book?w=450&h=660&hash=B0E33EF4",
+        "url": "#"
+    },
+    {
+        "id": 7,
+        "title": "La Gran Siete",
+        "image": "https://api.lorem.space/image/movie?w=450&h=660&hash=2D297A22",
+        "url": "#"
+    },
+    {
+        "id": 8,
+        "title": "Capitales",
+        "image": "https://api.lorem.space/image/game?w=450&h=660&hash=B0E33EF4",
+        "url": "#"
+    },
+    {
+        "id": 9,
+        "title": "Mi Doctor",
+        "image": "https://api.lorem.space/image/book?w=450&h=660&hash=2D297A22",
+        "url": "#"
+    }
+]
